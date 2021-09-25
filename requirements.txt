@@ -88,7 +88,7 @@ pexpect==4.6.0
 Pillow==7.0.0
 platformdirs==2.3.0
 protobuf==3.6.1
-postgresql
+
 psycopg2==2.9.1
 psycopg2-binary==2.8.6
 pycairo==1.16.2
