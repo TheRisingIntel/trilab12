@@ -1,6 +1,6 @@
 adhocracy4==0.0.0.dev1
 anyascii==0.3.0
--r base.txt
+
 gunicorn==20.1.0
 
 apturl==0.5.2
