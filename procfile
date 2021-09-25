@@ -1,0 +1,3 @@
+web: gunicorn home.azeez.tri-lab.adhocracy-plus.config.wsgi --log-file -
+
+
